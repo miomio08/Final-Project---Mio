@@ -1,0 +1,173 @@
+{
+  "schema": "final-road-work-v1",
+  "payloadVersion": 2,
+  "course": "CS110",
+  "name": "Mio Bal",
+  "work": {
+    "project": "Hello World",
+    "projectDescription": "We will create a mobile game where the character is moving into a new house and he has to unlock everything on the house, like an infinite create type game. We will add multiple ways of creating and unlocking what the character. I will add the backstory and create the structure of the world.",
+    "path": "arcade",
+    "selected": [
+      "save",
+      "branch",
+      "access",
+      "tests",
+      "modular",
+      "external",
+      "levels",
+      "tshirt",
+      "ai-promo",
+      "project-mark"
+    ],
+    "engine": "Unity / C#",
+    "environmentTest": true,
+    "gitEvidence": "I created a new repository on GitHub and titled it with my name and \"Final Project\". I added that to this assignment and backed up my files.",
+    "ai": "ChatGPT",
+    "aiVerify": "I will check its output by running tests. I am responsible for getting the assets for the game so I will use ChatGPT when needed because this is my first time working with tools such as Unity and Blender, so if I run into issues with texture for example, I will use the output ChatGPT gives me and test it to see if it resolves my issue.",
+    "notes": "I now know how to upload and download 3d models into blender and unity. I also know how to add texture onto models and how to fix resolution or how to individually add texture onto each element of the 3d model.",
+    "plan": "",
+    "availability": "Instagram (anyday, usually at night), classroom (tues, thurs)",
+    "service": "",
+    "supportMode": "team",
+    "role": "Creating assets",
+    "board": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "personalBoard": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "huddle": {
+      "stage": 1,
+      "returned": true,
+      "goal": "",
+      "personal": "",
+      "questions": ""
+    },
+    "evidence": {},
+    "dailyDraft": {
+      "meeting": "CS110-2026-11-17",
+      "worked": "Today, I worked with my team and we brainstormed multiple ideas for the project we want to create. We all gave ideas and we had a vote to pick 3 of them to combine into one, original game. We also came up with the potential and discussed what elements will be included in the game. Additionally, we talked about how we will execute this project.",
+      "next": "Today, I worked with my team and we brainstormed multiple ideas for the project we want to create. We all gave ideas and we had a vote to pick 3 of them to combine into one, original game. We also came up with the potential and discussed what elements will be included in the game. Additionally, we talked about how we will execute this project. My personal next task is to come up with a potential logo for this app and draw the elements that will be in the game.",
+      "blocker": "What's stopping me technically is myself because I have to come up with all the drawing ideas. What can help: inspo pictures from Pinte",
+      "evidence": ""
+    },
+    "requirements": [
+      {
+        "id": "core",
+        "code": "R01",
+        "title": "Working project foundation",
+        "evidence": "Working source and build (60); authored program logic (35); meaningful tests (20); run guide and evidence map (20); individual explanation (15)."
+      },
+      {
+        "id": "save",
+        "code": "R02",
+        "title": "Save and restore progress",
+        "evidence": "Save meaningful state; close and reopen the program; demonstrate correct restoration and invalid-file handling."
+      },
+      {
+        "id": "branch",
+        "code": "R03",
+        "title": "Branching story or mission state",
+        "evidence": "Demonstrate at least two meaningful outcomes, their conditions and a state-transition test."
+      },
+      {
+        "id": "access",
+        "code": "R08",
+        "title": "Accessible controls and interface",
+        "evidence": "Demonstrate keyboard access, readable contrast, clear feedback and one user-tested accessibility improvement."
+      },
+      {
+        "id": "tests",
+        "code": "R10",
+        "title": "Automated regression tests",
+        "evidence": "Run meaningful normal, boundary and failure tests. Show a defect the suite detects."
+      },
+      {
+        "id": "modular",
+        "code": "R09",
+        "title": "Modular architecture",
+        "evidence": "Show a module/class diagram, clear responsibilities and a change made without rewriting unrelated systems."
+      },
+      {
+        "id": "external",
+        "code": "R13",
+        "title": "External playtest and revision",
+        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
+      },
+      {
+        "id": "levels",
+        "code": "R15",
+        "title": "Three distinct levels or scenarios",
+        "evidence": "Deliver three complete, meaningfully different scenarios using shared systems and test each."
+      },
+      {
+        "id": "tshirt",
+        "code": "R24",
+        "title": "Project T-shirt design + mockup",
+        "evidence": "Create an original graphic connected to your project in Canva or another design tool. Submit the editable source or export, a readable PNG and a shirt mockup, plus a short design explanation. No purchase or paid account is required."
+      },
+      {
+        "id": "ai-promo",
+        "code": "R25",
+        "title": "AI-assisted promotional illustration",
+        "evidence": "Create a project-specific concept or promotional render. Save the tool name, prompt, selected output, your revisions and credits. Label concept artwork clearly; it is not evidence of working gameplay."
+      },
+      {
+        "id": "project-mark",
+        "code": "R26",
+        "title": "Project logo or title treatment",
+        "evidence": "Design a project-specific logo or title mark. Include the editable source, a clean export, one in-context use and a short explanation. Use a separate artifact from the T-shirt graphic."
+      }
+    ],
+    "tasks": [],
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "Today, I worked with my team and we brainstormed multiple ideas for the project we want to create. We all gave ideas and we had a vote to pick 3 of them to combine into one, original game. We also came up with the potential and discussed what elements will be included in the game. Additionally, we talked about how we will execute this project.",
+        "next": "Today, I worked with my team and we brainstormed multiple ideas for the project we want to create. We all gave ideas and we had a vote to pick 3 of them to combine into one, original game. We also came up with the potential and discussed what elements will be included in the game. Additionally, we talked about how we will execute this project. My personal next task is to come up with a potential logo for this app and draw the elements that will be in the game.",
+        "blocker": "What's stopping me technically is myself because I have to come up with all the drawing ideas. What can help: inspo pictures from Pinte",
+        "evidence": "",
+        "tasks": []
+      }
+    ]
+  },
+  "team": {
+    "name": "Hello World",
+    "mode": "team",
+    "project": "Hello World",
+    "projectRepo": "",
+    "members": [
+      {
+        "name": "Jonathan Pacheco Urias",
+        "role": "Leader"
+      },
+      {
+        "name": "Paul Duarte",
+        "role": "Test Runner"
+      },
+      {
+        "name": "Mio Bal",
+        "role": "Creating assets"
+      },
+      {
+        "name": "isaias gonzalez",
+        "role": "Building structures"
+      },
+      {
+        "name": "Daniel Parma (2)",
+        "role": "output/result tester/checker"
+      }
+    ]
+  },
+  "sharedPlan": {
+    "goal": "",
+    "plan": "",
+    "tasks": []
+  },
+  "completedReports": []
+}
